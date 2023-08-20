@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import Tilt from "react-tilt";
+import { Tilt } from "react-tilt";
 import link from "../assets/link.png";
 import { projects } from "../constants";
 import { SectionWrapper } from "../hoc";

@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import React from "react";
-import Tilt from "react-tilt";
+import { Tilt } from "react-tilt";
 
 import resume from "../assets/resume.pdf";
 import { services } from "../constants";
